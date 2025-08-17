@@ -16,7 +16,6 @@ Deliverables include a detailed PDF report and a slide-style PDF for quick revie
 - Actionable playbooks per segment (limit management, cross-sell, nudges, underwriting).
 
 > See `/reports/UBSCreditRisk&CustomerSegmentationReport.pdf` (detailed)  
-> and `/reports/UBS_Credit_Risk_Segmentation_Slides.pdf` (7-slide summary).
 
 ---
 
