@@ -15,8 +15,6 @@ Deliverables include a detailed PDF report and a slide-style PDF for quick revie
 - 4 business-friendly segments: Premier, Gold, Silver, High-Risk.
 - Actionable playbooks per segment (limit management, cross-sell, nudges, underwriting).
 
-> See `/reports/UBSCreditRisk&CustomerSegmentationReport.pdf` (detailed)  
-
 ---
 
 ## 📁 Repository Structure
@@ -141,4 +139,6 @@ Auto-generate a segment KPI table (counts, default rate, churn) into
 
 📄 Reports
 
-Detailed report: reports/UBSCreditRisk&CustomerSegmentationReport.pdf
+Detailed report: ## 📑 Reports
+
+- [Detailed Report (PDF)](UBSCreditRisk&CustomerSegmentationReport.pdf)
