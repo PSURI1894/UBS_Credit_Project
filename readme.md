@@ -74,7 +74,7 @@ Standardizes selected features and samples to find best k via silhouette score.
 
 Fits full K-Means, assigns cluster.
 
-Saves:
+##Saves:
 
 outputs/customers_with_clusters.xlsx
 
@@ -102,7 +102,7 @@ If you’re using the UCI “Default of Credit Card Clients” schema, map colum
 
 print(df.columns.tolist())
 
-🧩 Outputs
+##🧩 Outputs
 
 Cluster counts: how many customers per segment.
 
